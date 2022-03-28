@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on full stack web development.
+- 🔭 I’m currently working on full stack web development and Machine Learning
 - 🌱 I’m currently learning MERN Stack.
 - 👯 I’m looking to collaborate on github and web development projects.
 - 🤔 I’m looking for help to become intermediate in open source.
